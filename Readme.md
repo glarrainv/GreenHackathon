@@ -11,7 +11,7 @@
 # Research
 
 
-*One of the largest contributors to both climate doom and environmental misinformation is the current way that most search engines list search results. Search results are posted by popularity, clicks, and financial incentives rather than being the best, or most scientifically accurate, result for the question being asked.**
+*One of the largest contributors to both climate doom and environmental misinformation is the current way that most search engines list search results. Search results are posted by popularity, clicks, and financial incentives rather than being the best, or most scientifically accurate, result for the question being asked.*
 
 ## *The solution?*
 
