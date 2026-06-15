@@ -5,6 +5,8 @@
  ![TransformersJS](https://img.shields.io/badge/transformers.js-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![ONNX](https://img.shields.io/badge/onnx-%23ffffff.svg?style=for-the-badge&logo=onnx&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ![1mb plz (2) (1)](https://hackmd.io/_uploads/HyZqST2Wfg.gif)
+<img width="1152" height="648" alt="1mb plz (2) (1)" src="https://github.com/user-attachments/assets/40be00ec-4ec7-4578-bd0e-eb8674d71121" />
+
 
 # Research
 
@@ -58,7 +60,11 @@ We generated a [spreadsheet](https://docs.google.com/spreadsheets/d/1cn_QvfDeKGH
 ## *Why THESE sources?*
 Resources were validated using the SIFT and CRAAP Method 
 ![sift-infographic](https://hackmd.io/_uploads/SkZrXj2Wfg.png)
+<img width="962" height="514" alt="sift-infographic" src="https://github.com/user-attachments/assets/4fc634f6-ff47-487b-9003-01f54ee8adf6" />
+
 ![CRAAP-Test](https://hackmd.io/_uploads/rJPrXo3Zfg.png)
+<img width="768" height="382" alt="CRAAP-Test" src="https://github.com/user-attachments/assets/6dd6a0d1-667d-4901-aa6d-f6df8e1034ba" />
+
 
 > Source: https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322]
 
@@ -67,6 +73,7 @@ Resources were validated using the SIFT and CRAAP Method
 > As areas of knowledge grow, 
 > so too do the perimeters of ignorance 
 ![17655-niel-degrasse-tyson-quote](https://hackmd.io/_uploads/SyIeDo3Zfl.png)
+<img width="1200" height="675" alt="17655-niel-degrasse-tyson-quote" src="https://github.com/user-attachments/assets/5ed9df3b-cff1-45e5-8b47-7a3e44baf72d" />
 
 
 *Developed and Coded by Gank
